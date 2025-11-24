@@ -1,0 +1,6 @@
+tmp
+*.mp4
+*.json
+yolo_obb_dataset
+runs
+*.pt
